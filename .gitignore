@@ -1,0 +1,10 @@
+# Archivos de sistema
+.DS_Store
+
+# Archivos de WordPress que no necesitas incluir
+/node_modules
+/vendor
+
+# Archivos de configuración
+*.log
+
