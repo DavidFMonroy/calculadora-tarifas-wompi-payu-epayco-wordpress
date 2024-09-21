@@ -1,1 +1,0 @@
-# calculadora-tarifas-wompi-payu-epayco-wordpress
